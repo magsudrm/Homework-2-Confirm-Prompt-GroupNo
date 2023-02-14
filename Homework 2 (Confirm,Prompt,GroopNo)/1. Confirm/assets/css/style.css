@@ -1,0 +1,11 @@
+h2{
+    text-align: center;
+    background-color: red;
+    padding: 1rem 0;
+    color: white;
+    font-weight: bold;
+    font-size: 33px;
+    font-style: italic;
+    text-decoration: underline;
+    border-radius: 32px;
+}
